@@ -1,5 +1,8 @@
 body{
     background-image: url("https://www.ljungbyutemobler.se/wp-content/uploads/2018/01/F%C3%A4rger-Regnb%C3%A5ge.jpg");
+    align-self: center;
+    margin: 500px;
+    margin-top: 2px;
 }
 #grishorningbild {
     width: 200px;
